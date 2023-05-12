@@ -9,5 +9,8 @@ I organized my portfolio in the following way:
     - We use fastai/pytorch to classify images
   - Autoencoder Denoiser and Anomaly Detection
     - We use tensorflow to explore different types of Autoencoders
-    
+2. Data Science
+  - Python for Data Science
+    - Educational Resources to explain data science concepts
+
 
