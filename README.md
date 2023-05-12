@@ -6,6 +6,8 @@ I organized my portfolio in the following way:
 
 1.  Neural Networks and Deep Learning
   - CV_Classifier_fastai
-    - Costa Rica Wildlife Classifier
+    - We use fastai/pytorch to classify images
+  - Autoencoder Denoiser and Anomaly Detection
+    - We use tensorflow to explore different types of Autoencoders
     
 
