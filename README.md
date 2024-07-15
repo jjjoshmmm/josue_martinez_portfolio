@@ -2,7 +2,12 @@
 
 I hope you enjoy going through the projects that I'm showcasing!
 
-I organized my portfolio in the following way:
+Presentations:
+1. Software Engineering Project - Data Science
+2. Embedded Ai - Microcontrollers
+3. Chess - Java Script (React)
+
+Folders:
 
 1.  Neural Networks and Deep Learning
   - CV_Classifier_fastai
