@@ -6,6 +6,7 @@ Presentations:
 1. Software Engineering Project - Data Science
 2. Embedded Ai - Microcontrollers
 3. Chess - Java Script (React)
+   - [Link to Repository](https://github.com/IchChefDuNixx/chessJS)
 
 Folders:
 
